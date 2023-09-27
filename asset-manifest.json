@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hajarwbashar/static/css/main.160fabc2.css",
+    "main.js": "/hajarwbashar/static/js/main.9c2fe78c.js",
+    "static/js/787.e3c1744a.chunk.js": "/hajarwbashar/static/js/787.e3c1744a.chunk.js",
+    "static/media/dastnevis.otf": "/hajarwbashar/static/media/dastnevis.9d483db4777df4ca206b.otf",
+    "static/media/logo.svg": "/hajarwbashar/static/media/logo.e1b1f6928b8e6132be4320bbc64f996b.svg",
+    "index.html": "/hajarwbashar/index.html",
+    "main.160fabc2.css.map": "/hajarwbashar/static/css/main.160fabc2.css.map",
+    "main.9c2fe78c.js.map": "/hajarwbashar/static/js/main.9c2fe78c.js.map",
+    "787.e3c1744a.chunk.js.map": "/hajarwbashar/static/js/787.e3c1744a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.160fabc2.css",
+    "static/js/main.9c2fe78c.js"
+  ]
+}
